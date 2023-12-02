@@ -1,12 +1,12 @@
 [Desktop Entry]
 Type=X-GNOME-Metatheme
-Name=Elemento Orange
+Name=Elemento Dark Orange
 Comment=GTK Theme
 Encoding=UTF-8
 
 [X-GNOME-Metatheme]
-GtkTheme=Elemento Orange
-MetacityTheme=Elemento Orange
-IconTheme=Marwaita-Light
+GtkTheme=Elemento Dark Orange
+MetacityTheme=Elemento Dark Orange
+IconTheme=Marwaita-Dark
 CursorTheme=Marwaita
 CursorSize=24
